@@ -3,5 +3,6 @@
 Olá! Me chamo Letícia Braga mas por aqui e em outras redes pode ser bragalets!
 
 No momento, sou membro da equipe de RPA e APIs no Hospital AACD, onde sou responsável por construir automações e integrações 😁🤖
+Além do trabalho, gosto de jogar joguinhos online, ouvir muita música, desenhar, conhecer lugares e passar um tempinho na natureza!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragalets&theme=slateorange)

@@ -1,9 +1,7 @@
 ![Banner](https://pbs.twimg.com/media/D-jnKUPU4AE3hVR.jpg)
-## Olá! Tudo bem? 
+## Olá! Bem-vindo ao meu GitHub!
+Me chamo Letícia Braga mas por aqui e em outras redes pode ser bragalets!
 
-</center>  
+A
 
-### Bem vindo ao meu GitHub!
-Me chamo Letícia Braga mas por aqui e em outras redes pode ser bragalets!  
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragalets&theme=material-palenight)

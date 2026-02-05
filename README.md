@@ -1,13 +1,11 @@
 ![Banner](https://cdn.discordapp.com/attachments/691751298403664095/1124467733107572818/BBB.gif)
-## Bem-vindo ao meu GitHub!
-Olá, prazer!
+Hello, nice to meet you!
 
-Sou analista de sistemas com aproximadamente 3 anos de experiência em soluções de RPA. Desempenho um papel importante na construção de automações utilizando Automation Anywhere e PL/SQL.
-Desenho soluções para diversas áreas de negócio, auxiliando os clientes na identificação de processos passíveis de automação. Além disso, implemento a solução técnica e realizo sustentação das automações já implementadas. Além disso, atuo na criação de consultas para o desenvolvimento de APIs, facilitando as integrações entre sistemas. Estou estudando python e javascript para auxiliar nas minhas implementações.😁🤖
+I’m a Systems Analyst with around 3 years of experience in RPA solutions. I play a key role in building automations using Automation Anywhere and PL/SQL. I design solutions for different business areas, helping clients identify processes suitable for automation. In addition, I implement the technical solutions and provide ongoing support for existing automations.
 
-Além do trabalho, gosto de jogar joguinhos online, ouvir muita música, desenhar, conhecer lugares e passar um tempinho na natureza!
+I also work on creating queries for API development, enabling smoother integrations between systems. Currently, I’m studying Python and JavaScript to further support and enhance my implementations. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragalets&theme=slateorange) 
+Outside of work, you’ll probably find me playing online games, listening to way too much music, drawing, exploring new places, or recharging my energy in nature 😎
 
 
 
